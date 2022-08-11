@@ -1,1 +1,19 @@
+  GNU nano 6.2                /root/.relayer/gaia.json
+{
+  "type": "cosmos",
+  "value": {
+    "key": "Husi",
+    "chain-id": "GAIA",
+    "rpc-addr": "http://206.189.33.1:26657",
+    "account-prefix": "cosmos",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.001uatom",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
+
 
